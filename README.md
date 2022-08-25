@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://logos.textgiraffe.com/logos/logo-name/Pinky-designstyle-summer-m.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/c866e7c968a3249e5b1c2.jpg"200" height="200"/>
   <p align="center">
 <a href="#"><img title="Pinky" src="https://img.shields.io/badge/PINKY_BOT-V10?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
